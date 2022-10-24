@@ -1,0 +1,228 @@
+$date
+	Mon Oct 24 02:14:47 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module echo_testbanch $end
+$var wire 1 ! S1 $end
+$var wire 1 " S2 $end
+$var wire 1 # S3 $end
+$var wire 1 $ S4 $end
+$var wire 1 % S5 $end
+$var wire 1 & a $end
+$var wire 1 ' b $end
+$var wire 1 ( c $end
+$var wire 1 ) d $end
+$var wire 1 * e $end
+$var wire 1 + f $end
+$var wire 1 , g $end
+$var reg 1 - A $end
+$var reg 1 . B $end
+$var reg 1 / C $end
+$var reg 1 0 D $end
+$var reg 1 1 RE $end
+$var reg 1 2 RS $end
+$var integer 32 3 cont [31:0] $end
+$scope module link_codificador $end
+$var wire 1 4 A $end
+$var wire 1 5 B $end
+$var wire 1 6 C $end
+$var wire 1 7 D $end
+$var wire 1 8 RE $end
+$var wire 1 9 RS $end
+$var wire 1 ! S1 $end
+$var wire 1 " S2 $end
+$var wire 1 # S3 $end
+$var wire 1 $ S4 $end
+$var wire 1 % S5 $end
+$upscope $end
+$scope module link_display $end
+$var wire 1 ! SD1 $end
+$var wire 1 " SD2 $end
+$var wire 1 # SD3 $end
+$var wire 1 $ SD4 $end
+$var wire 1 % SD5 $end
+$var wire 1 & a $end
+$var wire 1 ' b $end
+$var wire 1 ( c $end
+$var wire 1 ) d $end
+$var wire 1 * e $end
+$var wire 1 + f $end
+$var wire 1 , g $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+09
+18
+07
+06
+05
+04
+b0 3
+02
+11
+00
+0/
+0.
+0-
+1,
+1+
+0*
+1)
+1(
+0'
+1&
+1%
+1$
+1#
+1"
+1!
+$end
+#10000
+1*
+0!
+10
+17
+b1 3
+#20000
+0*
+1'
+0)
+0+
+0,
+0"
+00
+07
+1/
+16
+b10 3
+#30000
+1*
+1)
+1+
+1,
+0#
+10
+17
+b11 3
+#40000
+0*
+0$
+00
+07
+0/
+06
+1.
+15
+b100 3
+#50000
+1*
+0,
+0%
+10
+17
+b101 3
+#60000
+0*
+0)
+0&
+0+
+1!
+00
+07
+1/
+16
+b110 3
+#70000
+1)
+1&
+0(
+1*
+1,
+1"
+10
+17
+b111 3
+#80000
+0*
+1(
+1#
+00
+07
+0/
+06
+0.
+05
+1-
+14
+b1000 3
+#90000
+0)
+0&
+1+
+1$
+10
+17
+b1001 3
+#100000
+1&
+0'
+1)
+1%
+00
+07
+1/
+16
+b1010 3
+#110000
+1*
+0!
+10
+17
+b1011 3
+#120000
+0*
+1'
+0)
+0+
+0,
+0"
+00
+07
+0/
+06
+1.
+15
+b1100 3
+#130000
+1*
+1)
+1+
+1,
+0#
+10
+17
+b1101 3
+#140000
+0*
+0$
+00
+07
+1/
+16
+b1110 3
+#150000
+1*
+0,
+0%
+10
+17
+b1111 3
+#160000
+b10000 3
